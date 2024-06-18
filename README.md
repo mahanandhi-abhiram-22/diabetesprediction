@@ -1,2 +1,2 @@
 # diabetesprediction
-by downloading the code will be visible
+#By downloading the file ,code will be visible.
